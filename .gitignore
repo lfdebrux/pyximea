@@ -56,3 +56,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+#=======================
+# Ximea Specific Ignores
+m3api
+m3api.lib
